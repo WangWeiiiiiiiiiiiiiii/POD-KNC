@@ -133,26 +133,10 @@ The algorithm identifies the nearest neighboring operating conditions and recons
 
 ## Related Publication
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{wang2025podknc,
-  title={Efficient flow field prediction in slurry electrolysis tanks via proper orthogonal decomposition with matrix weighting},
-  author={Wang, Wei and Li, Zhenhao and Zhang, Haoran and Miao, Pengyu and Song, Jian and Jiang, Ziyu and Lu, Tingting and Zhao, Hongliang and Liu, Fengqin},
-  journal={},
-  year={2025}
-}
-```
-
-(Please update the journal information after publication.)
+(update after publication.)
 
 ---
 
-## License
-
-This project is released under the MIT License.
-
----
 
 ## Contact
 
@@ -162,4 +146,4 @@ State Key Laboratory of Advanced Metallurgy
 
 University of Science and Technology Beijing
 
-Email: [zhaohl@ustb.edu.cn](mailto:zhaohl@ustb.edu.cn)
+Email: [ww15750157441@163.com](mailto:ww15750157441@163.com)
