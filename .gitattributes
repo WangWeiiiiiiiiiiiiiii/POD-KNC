@@ -3,3 +3,5 @@ or45.csv filter=lfs diff=lfs merge=lfs -text
 POD-KNC.ipynb filter=lfs diff=lfs merge=lfs -text
 Weights_An45.csv filter=lfs diff=lfs merge=lfs -text
 An45.csv filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+test_case.zip filter=lfs diff=lfs merge=lfs -text
